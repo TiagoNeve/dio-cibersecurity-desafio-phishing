@@ -1,7 +1,7 @@
 # Desafio de Phishing usando SETOOLKIT
 
 ## Objetivo
-Clonar o instagram e usar isso como base para a captura do acesso das vítimas
+Clonar o gmail e usar isso como base para a captura do acesso das vítimas
 
 ## Comandos
 sudo su -> Se tornar usuário root no terminal, essencial para conseguir executar comandos sem impeditivo
